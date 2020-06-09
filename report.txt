@@ -1,0 +1,81 @@
+Location : Hong Kong,HK
+Temp : 302.59
+Clouds : 40
+Wind : 6.2
+Rain : 0
+Date : 2020-06-09 11:45:12.572817
+Description : The overall description of the weather is as follows.
+Normal summer clothing will be enough.
+It is not going to rain. So an umbrella is not necessary.
+
+Location : Tokyo,JP
+Temp : 300.15
+Clouds : 89
+Wind : 5.7
+Rain : 0
+Date : 2020-06-09 11:46:01.115632
+Description : The overall description of the weather is as follows.
+Normal summer clothing will be enough.
+It is not going to rain. So an umbrella is not necessary.
+
+Location : London,GB
+Temp : 283.15
+Clouds : 96
+Wind : 1
+Rain : 0
+Date : 2020-06-09 11:46:20.778369
+Description : The overall description of the weather is as follows.
+Pleasant weather. A light jumper might be useful.
+It is not going to rain. So an umbrella is not necessary.
+
+Location : Paris,FR
+Temp : 284.15
+Clouds : 90
+Wind : 3.6
+Rain : 0
+Date : 2020-06-09 11:46:52.811087
+Description : The overall description of the weather is as follows.
+Pleasant weather. A light jumper might be useful.
+It is not going to rain. So an umbrella is not necessary.
+
+Location : Oslo,NO
+Temp : 286.48
+Clouds : 8
+Wind : 1.27
+Rain : 0
+Date : 2020-06-09 11:47:53.867870
+Description : The overall description of the weather is as follows.
+It should be sunny, so hats and sunglasses might be needed.
+Pleasant weather. A light jumper might be useful.
+It is not going to rain. So an umbrella is not necessary.
+
+Location : Moscow,RU
+Temp : 297.15
+Clouds : 20
+Wind : 2
+Rain : 0
+Date : 2020-06-09 11:48:36.674217
+Description : The overall description of the weather is as follows.
+Normal summer clothing will be enough.
+It is not going to rain. So an umbrella is not necessary.
+
+Location : Aberdeen,US
+Temp : 290.37
+Clouds : 90
+Wind : 8.2
+Rain : 3.98
+Date : 2020-06-09 11:53:13.156457
+Description : The overall description of the weather is as follows.
+Pleasant weather. A light jumper might be useful.
+There will be light rain, consider carrying a hood or an umbrellla.
+
+Location : Kolkata,IN
+Temp : 308.15
+Clouds : 40
+Wind : 2.6
+Rain : 0
+Date : 2020-06-09 11:54:09.680138
+Description : The overall description of the weather is as follows.
+Normal summer clothing will be enough.
+It is not going to rain. So an umbrella is not necessary.
+
